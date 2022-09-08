@@ -9,6 +9,10 @@ body {
     width:100%;
 }
 
+.p{
+    margin-left:5%;
+}
+
 .col_der{
     position:absolute;
     top:0;
