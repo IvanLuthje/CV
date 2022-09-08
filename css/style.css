@@ -1,11 +1,11 @@
 .imagen img{
-    width:50%;
+    width:60%;
 }
 
 .col_der{
     position:absolute;
     top:0;
-    left:15.5%; 
+    left:15%; 
     width:85%;
     height:100%;
 }
