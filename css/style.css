@@ -1,3 +1,10 @@
+body {
+	font-family: 'Roboto', sans-serif; 
+	font-size: 1em; 
+	margin: 0; 
+	padding: 0;  
+}
+
 .imagen img{
     width:60%;
 }
