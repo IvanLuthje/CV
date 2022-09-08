@@ -1,3 +1,20 @@
-nav1{
-    background-color: #2b6ba2;
+.img{
+    width:50%;
+}
+
+.col_der{
+    position:absolute;
+    top:0;
+    left:15.5%; 
+    width:85%;
+    height:100%;
+        background-color:#00435f;
+}
+
+.col_izq{
+	position:absolute;
+	top:0;
+	left:0;  
+	width:15%;
+	height:100%;
 }
